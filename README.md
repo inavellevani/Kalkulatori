@@ -1,2 +1,2 @@
 # Kalkulatori
-This is simple application, which allows to calculate characteristics of several shapes.
+This is simple application, which allows to calculate characteristics of several shapes. When you choose shape with radiobutton, click continue button to move to calculating page. When you're done with inputs, just press accept and it will do it's job. When you're finished with calculations, simply click exit button and try another shape. In case of wrong input in triangle's case, message will pop up, that warns you about major propery of triangle.
